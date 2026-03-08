@@ -47,7 +47,7 @@
 **Результат:** Внедрена проверка качества через RAGAS (Faithfulness + Context Precision), ответы выдаются с источниками  
 **Стек:** Python, LangChain, RAG, SQL, API  
 **Статус:** ✨ Активный проект  
-**Ссылки:** [GitHub](https://github.com/Murs2024/RAG-reglament)
+**Ссылки:** [GitHub](https://github.com/Murs2024/RAG-reglament) | [Release v1.0](https://github.com/Murs2024/RAG-reglament/releases/tag/v1.0)
 
 ---
 
