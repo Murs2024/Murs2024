@@ -30,7 +30,7 @@ AI-решения для юридических и бизнес-процессо
 **Задача:** повысить входящую конверсию и разгрузить команду.  
 **Решение:** разработка и запуск коммерческого Telegram-бота.  
 **Результат:** +30% к конверсии лидов, до 50% экономии времени сотрудников.  
-**Ссылки:** Проект временно закрыт на доработку.
+**Ссылки:** Кейс и демо по запросу.
 
 ### RAG-ассистент по регламентам и правовым документам
 **Задача:** ускорить поиск и анализ норм во внутренней базе документов.  
@@ -56,6 +56,11 @@ AI-решения для юридических и бизнес-процессо
 - **LLM и AI:** YandexGPT, GigaChat, DeepSeek, ChatGPT.
 - **Разработка и автоматизация:** Python, SaleBot, RAG, LangChain.
 - **Интеграции и инфраструктура:** Google API, SQL, Git, WordPress.
+
+## GitHub-статистика
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Murs2024&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murs2024&layout=compact&theme=default&hide_border=true)
 
 ## Контакты и портфолио
 
