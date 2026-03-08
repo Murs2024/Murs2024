@@ -65,8 +65,7 @@ AI-решения для юридических и бизнес-процессо
 
 - Профиль: [github.com/Murs2024](https://github.com/Murs2024)
 - Репозитории: [github.com/Murs2024?tab=repositories](https://github.com/Murs2024?tab=repositories)
-- 
-
+  
 ## Контакты и портфолио
 
 ### Где меня можно найти в сети
