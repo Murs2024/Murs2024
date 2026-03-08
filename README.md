@@ -59,8 +59,13 @@ AI-решения для юридических и бизнес-процессо
 
 ## GitHub-статистика
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Murs2024&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murs2024&layout=compact&theme=default&hide_border=true)
+[![GitHub followers](https://img.shields.io/github/followers/Murs2024?style=flat-square)](https://github.com/Murs2024?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Murs2024?affiliations=OWNER%2CCOLLABORATOR&style=flat-square)](https://github.com/Murs2024?tab=repositories)
+[![Profile views](https://komarev.com/ghpvc/?username=Murs2024&style=flat-square)](https://github.com/Murs2024)
+
+- Профиль: [github.com/Murs2024](https://github.com/Murs2024)
+- Репозитории: [github.com/Murs2024?tab=repositories](https://github.com/Murs2024?tab=repositories)
+
 
 ## Контакты и портфолио
 
