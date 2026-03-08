@@ -65,6 +65,13 @@ AI-решения для юридических и бизнес-процессо
 
 - Профиль: [github.com/Murs2024](https://github.com/Murs2024)
 - Репозитории: [github.com/Murs2024?tab=repositories](https://github.com/Murs2024?tab=repositories)
+
+  ## GitHub-статистика
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Murs2024&show_icons=true&hide_border=true&theme=default" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murs2024&layout=compact&langs_count=8&hide_border=true&theme=default" />
+</p>
   
 ## Контакты и портфолио
 
