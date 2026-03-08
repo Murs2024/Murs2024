@@ -1,85 +1,28 @@
-# Привет! Я Ольга
+# Project Title
 
-Юрист-разработчик (Legal Tech) и промпт-инженер. Разрабатываю и внедряю
-AI-решения для юридических и бизнес-процессов: от анализа рисков и
-документов до чат-ботов и интеграций с CRM/API.
+## 🚀 Project Stacks
+- Stack 1: Description
+- Stack 2: Description
+- Stack 3: Description
 
-Мой фокус - практические инструменты с измеримым эффектом:
-- +30% к конверсии лидов;
-- до 50% экономии времени команды;
-- сокращение рутины и ускорение внутренних процессов.
+---
 
-## Чем могу помочь бизнесу
+## 📖 About
+This project aims to ...
 
-- Автоматизация юридических и операционных процессов с AI.
-- Разработка Telegram-ботов и AI-ассистентов под конкретную задачу.
-- RAG-решения по внутренним регламентам и документам.
-- Интеграция LLM/API в действующие процессы компании.
-- Проектирование промптов и контроль качества AI-ответов.
+## 📩 Contact
+| Name      | Email          |
+|-----------|----------------|
+| Murs2024  | example@mail.com|
 
-## Ключевые проекты
+---
 
-### LegalGenius
-**Задача:** ускорить анализ договоров и судебных актов.  
-**Решение:** Telegram-система на базе RAG (15+ кодексов), разбор рисков с
-ссылками на нормы права.  
-**Результат:** По оценке RAGAS: Faithfulness 0.83 и Context Precision 1.0 (средний балл 0.915, уровень "отличное качество").  
-**Ссылки:** [Презентация](https://drive.google.com/file/d/1A_XWDiC602fsAl4HWDowsrlFuS0mSND8/view?usp=sharing)
+## 🔍 Looking for
+- Collaborators
+- Feedback
+- Suggestions
 
-### «Юристы Севера»
-**Задача:** повысить входящую конверсию и разгрузить команду.  
-**Решение:** разработка и запуск коммерческого Telegram-бота.  
-**Результат:** +30% к конверсии лидов, до 50% экономии времени сотрудников.  
-**Ссылки:** Кейс и демо по запросу.
+---
 
-### RAG-ассистент по регламентам и правовым документам
-**Задача:** ускорить поиск и анализ норм во внутренней базе документов.  
-**Решение:** AI-инструмент с retrieval и релевантной выдачей.  
-**Результат:** Внедрена проверка качества через RAGAS (Faithfulness + Context Precision), ответы выдаются с источниками, повторные запросы отдаются из SQLite-кеша без повторного вызова API.  
-**Ссылки:** [GitHub](https://github.com/Murs2024/RAG-reglament)
-
-### DocuBot
-**Задача:** автоматизировать подготовку типовых юридических документов.  
-**Решение:** интеллектуальный генератор документов с шаблонами и проверками.  
-**Результат:** Доступен бесплатный тест-драйв бота для проверки сценариев.  
-**Ссылки:** [Презентация](https://drive.google.com/file/d/1H-bfHi59BMWlh43QXfev7K2_tNnk58jO/view) | [Тест-драйв в Telegram (@docsdemo_bot)](https://t.me/docsdemo_bot)
-
-### Luma
-**Задача:** автоматизировать персональное управление задачами.  
-**Решение:** AI-ассистент с API-интеграциями (Google Calendar, CRM, платежные
-сервисы).  
-**Результат:** Реализован полный цикл "сообщение -> событие": бот распознает голос/текст, автоматически создает запись в Google Calendar и отправляет 3 напоминания (за 1 час, 15 и 5 минут) плюс ежедневный обзор в 08:00.  
-**Ссылки:** [Презентация](https://drive.google.com/file/d/1VOQDzXNttiAvN56zSeW7cCY7up1MJkxa/view?usp=sharing)
-
-## Технологии
-
-- **LLM и AI:** YandexGPT, GigaChat, DeepSeek, ChatGPT.
-- **Разработка и автоматизация:** Python, SaleBot, RAG, LangChain.
-- **Интеграции и инфраструктура:** Google API, SQL, Git, WordPress.
-
-## GitHub-статистика
-
-[![GitHub followers](https://img.shields.io/github/followers/Murs2024?style=flat-square)](https://github.com/Murs2024?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/Murs2024?affiliations=OWNER%2CCOLLABORATOR&style=flat-square)](https://github.com/Murs2024?tab=repositories)
-[![Profile views](https://komarev.com/ghpvc/?username=Murs2024&style=flat-square)](https://github.com/Murs2024)
-
-- Профиль: [github.com/Murs2024](https://github.com/Murs2024)
-- Репозитории: [github.com/Murs2024?tab=repositories](https://github.com/Murs2024?tab=repositories)
-  
-## Контакты и портфолио
-
-### Где меня можно найти в сети
-
-- GitHub: [https://github.com/Murs2024](https://github.com/Murs2024)
-- Telegram: [@murs51Luma](https://t.me/murs51Luma)
-- Email: [uristpro51@gmail.com](mailto:uristpro51@gmail.com)
-- FL.ru (портфолио и отзывы): [fl.ru/users/oasheveleva51/portfolio](https://www.fl.ru/users/oasheveleva51/portfolio/)
-- Kwork (страница услуг): [kwork.ru/user/shev51](https://kwork.ru/user/shev51)
-- Zerocoder (профиль разработчика): [marketplace.zerocoder.ru/profile](https://marketplace.zerocoder.ru/profile)
-- Telegram-канал «Магия пикселей и ботов» (новости, кейсы, мысли): [t.me/+i6iFdfPAQaQ3ZjUy](https://t.me/+i6iFdfPAQaQ3ZjUy)
-- Личный сайт: [uristpro51.ru](https://uristpro51.ru/)
-
-## Открыта к сотрудничеству
-
-Готова к проектам в Legal Tech, AI-автоматизации и разработке ботов/ассистентов.  
-Лучший способ связи: Telegram [@murs51Luma](https://t.me/murs51Luma)
+## 📝 License
+This project is licensed under the MIT License.
