@@ -116,6 +116,7 @@
 | 💬 **Telegram** (быстрый ответ) | [@murs51Luma](https://t.me/murs51Luma) |
 | 📧 **Email** | [uristpro51@gmail.com](mailto:uristpro51@gmail.com) |
 | 🔗 **GitHub** | [github.com/Murs2024](https://github.com/Murs2024) |
+| 💜 **Boosty** (блог, поддержка **Murs Media**) | [boosty.to/murs_exl2026](https://boosty.to/murs_exl2026) |
 | 💼 **FL.ru портфолио** | [fl.ru/users/oasheveleva51/portfolio](https://www.fl.ru/users/oasheveleva51/portfolio/) |
 | 🎨 **Kwork** | [kwork.ru/user/shev51](https://kwork.ru/user/shev51) |
 | 🏢 **Zerocoder** | [marketplace.zerocoder.ru/profile](https://marketplace.zerocoder.ru/profile) |
