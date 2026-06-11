@@ -77,7 +77,7 @@
 **Результат:** Один exe (портативная сборка), русскоязычный интерфейс, обновления через отдельный updater, сценарии подготовки релиза на GitHub; поддержка пользовательских аргументов и расширенных форм загрузки  
 **Стек:** C#, .NET Framework 4.7.2, Windows Forms, yt-dlp (внешняя зависимость), ffmpeg (внешняя зависимость), MSBuild  
 **Статус:** ✨ Активный проект  
-**Ссылки:** [GitHub](https://github.com/Murs2024/youtube-dl-gui-master) | [Releases](https://github.com/Murs2024/youtube-dl-gui-master/releases) | [README со скриншотом](https://github.com/Murs2024/youtube-dl-gui-master#readme)
+**Ссылки:** 🔒 Приватный репозиторий
 
 ---
 
