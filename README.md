@@ -61,13 +61,13 @@
 
 ---
 
-### 🎯 Luma
-**Задача:** Автоматизировать персональное управление задачами  
-**Решение:** AI-ассистент с API-интеграциями (Google Calendar, CRM, платежные сервисы)  
-**Результат:** Полный цикл "сообщение → событие": бот распознает голос/текст, автоматически создает события в календаре и CRM  
-**Стек:** Python, Google API, CRM API, AI, Telegram  
-**Статус:** 📖 Завершен  
-**Ссылки:** [Презентация](https://drive.google.com/file/d/1VOQDzXNttiAvN56zSeW7cCY7up1MJkxa/view?usp=sharing)
+### 🎯 Luma2025 — Персональный AI-планировщик (Telegram + MAX + Google Calendar)
+**Задача:** Автоматизировать планирование дня через голос и текст в мессенджерах  
+**Решение:** Веб-приложение с фоновыми ботами: принимает голосовые и текстовые сообщения в Telegram и MAX, распознаёт дату/время на русском языке, создаёт события в Google Calendar, присылает напоминания (за 1 час, 15 мин, 5 мин), утренний обзор дня. Дашборд в браузере с управлением ботами, просмотром событий и логами в реальном времени  
+**Результат:** Двойное резервирование (Telegram + MAX) — если один бот упал, второй продолжает работу. Системный трей Windows, авто-перезапуск при падении, автозагрузка с Windows. Два независимых Google-календаря  
+**Стек:** Python, Flask, Waitress, Bootstrap 5, python-telegram-bot, Google Calendar API, MAX API, speech_recognition, pydub + FFmpeg, APScheduler, pystray, PyInstaller  
+**Статус:** ✨ Активный проект  
+**Ссылки:** [GitHub (приватный)](https://github.com/Murs2024/Luma2025#readme) | [Презентация](https://drive.google.com/file/d/1VOQDzXNttiAvN56zSeW7cCY7up1MJkxa/view?usp=sharing)
 
 ---
 
