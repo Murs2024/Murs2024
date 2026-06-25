@@ -94,7 +94,7 @@
 **Результат:** Stateful-ассистент с inline-кнопками и защитой от ошибок (дубли, перезапись «вчера»); салонное стекло по запросу; автопересборка PDF после изменений; timezone-aware напоминания  
 **Стек:** Python, python-telegram-bot, APScheduler, ReportLab, python-dotenv, Pillow  
 **Статус:** ✨ Активный проект  
-**Ссылки:** [GitHub](https://github.com/Murs2024/hair-salon-bot) | [README с документацией](https://github.com/Murs2024/hair-salon-bot#readme)
+**Ссылки:** [Демо в Telegram (@salonMurka_bot)](https://t.me/salonMurka_bot) | [📖 Документация](https://github.com/Murs2024/hair-salon-bot-rag-docs#readme)
 
 ---
 
