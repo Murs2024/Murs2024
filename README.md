@@ -88,13 +88,13 @@
 ---
 
 
-### 🎯 Hair Salon Bot — персональный Telegram-ассистент по уходу за волосами
+### 🎯 Hair Salon Bot — Telegram-бот с RAG-поиском по базе знаний ухода за волосами
 **Задача:** Автоматизировать персональный график ухода за тонкими пористыми волосами без фиксированного расписания «по дням недели»  
-**Решение:** Telegram-бот с памятью состояния, адаптивным циклом (гладкость → восстановление → гладкость → стекло), ежедневными напоминаниями и генерацией премиум PDF-протокола с актуальным графиком  
+**Решение:** Telegram-бот с памятью состояния, RAG-поиском по структурированной базе знаний (ИИ-fallback при отсутствии точного совпадения), адаптивным циклом (гладкость → восстановление → гладкость → стекло), ежедневными напоминаниями и генерацией премиум PDF-протокола с актуальным графиком  
 **Результат:** Stateful-ассистент с inline-кнопками и защитой от ошибок (дубли, перезапись «вчера»); салонное стекло по запросу; автопересборка PDF после изменений; timezone-aware напоминания  
-**Стек:** Python, python-telegram-bot, APScheduler, ReportLab, python-dotenv, Pillow  
+**Стек:** Python, python-telegram-bot, APScheduler, ReportLab, python-dotenv, Pillow, RAG (ChromaDB, embeddings)  
 **Статус:** ✨ Активный проект  
-**Ссылки:** [Демо в Telegram (@salonMurka_bot)](https://t.me/salonMurka_bot) | [📖 Документация](https://github.com/Murs2024/hair-salon-bot-rag-docs#readme)
+**Ссылки:** [📖 Документация](https://github.com/Murs2024/hair-salon-bot-rag-docs#readme) | [Демо в Telegram (@salonMurka_bot)](https://t.me/salonMurka_bot) — тестовый доступ с паролем (уточняйте в [Telegram](https://t.me/murs51Luma))
 
 ---
 
