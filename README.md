@@ -28,7 +28,7 @@
 **Результат:** По оценке RAGAS: Faithfulness 0.83 и Context Precision 1.0 (средний балл 0.915, уровень "отличное качество")  
 **Стек:** Python, LangChain, RAG, Telegram API, YandexGPT  
 **Статус:** ✨ Активный проект  
-**Ссылки:** [Презентация](https://drive.google.com/file/d/1A_XWDiC602fsAl4HWDowsrlFuS0mSND8/view?usp=sharing)
+**Ссылки:** [Презентация](https://drive.google.com/file/d/1A_XWDiC602fsAl4HWDowsrlFuS0mSND8/view?usp=sharing) | [📖 Документация](https://github.com/Murs2024/LegalGenius-docs#readme)
 
 ---
 
@@ -131,7 +131,7 @@
 | Канал | Ссылка |
 |-------|--------|
 | 💬 **Telegram** (быстрый ответ) | [@murs51Luma](https://t.me/murs51Luma) |
-| 📧 **Email** | [uristpro51@gmail.com](mailto:uristpro51@gmail.com) |
+| 📧 **Email** | uristpro51@gmail.com |
 | 🔗 **GitHub** | [github.com/Murs2024](https://github.com/Murs2024) |
 | 💜 **Boosty** (блог, поддержка **Murs Media**) | [boosty.to/murs_exl2026](https://boosty.to/murs_exl2026) |
 | 💼 **FL.ru портфолио** | [fl.ru/users/oasheveleva51/portfolio](https://www.fl.ru/users/oasheveleva51/portfolio/) |
